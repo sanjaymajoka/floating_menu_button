@@ -1,7 +1,8 @@
 name: floating_menu_button
 description: To build Floating button for a menu list.
 version: 0.0.1
-homepage:
+author: Sanjay Kumar <mailtosanjay31@gmail.com>
+homepage: https://github.com/sanjaymajoka/floating_menu_button.git
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
