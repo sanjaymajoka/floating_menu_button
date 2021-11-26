@@ -45,9 +45,11 @@ class HomePage extends StatelessWidget {
 ```
 On Close
 
-![Screenshot_1637825923](https://user-images.githubusercontent.com/24270217/143525572-e973cd77-8c04-4759-9981-1a92917d926c.png)
+![close_30](https://user-images.githubusercontent.com/24270217/143526194-8eb57c90-31a6-4bc3-bbfc-1ed86fa386fa.jpg)
 
 On Open
 
-![Screenshot_1637825916](https://user-images.githubusercontent.com/24270217/143525644-3a0f5db7-b1cd-4827-818a-e988bcfd9727.png)
+![open_30](https://user-images.githubusercontent.com/24270217/143526217-41c3d252-eaef-4787-9383-d882ab30d054.jpg)
+
+
 
