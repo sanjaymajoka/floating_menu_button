@@ -1,0 +1,1 @@
+const durationInMilliseconds = 350;
