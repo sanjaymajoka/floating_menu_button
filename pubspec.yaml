@@ -1,7 +1,6 @@
 name: floating_menu_button
 description: A floating menu button contain a list of items.
 version: 0.0.1
-author:  Sanjay Kumar <mailtosanjay31@gmail.com>
 homepage: https://github.com/sanjaymajoka/floating_menu_button.git
 
 environment:
